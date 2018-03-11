@@ -20,3 +20,5 @@ Ernesto Serrano
 ## Licencia
 
 [GNU GPL v3](https://github.com/erseco/ugr_entornos_virtuales/blob/master/LICENSE)
+
+> para generar los pdf: `pandoc -o p1.pdf p1.md --pdf-engine=xelatex`
